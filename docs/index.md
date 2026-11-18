@@ -12,3 +12,4 @@
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес будущего сайта: `https://yowaike.github.io/devops-docs/`.
+
